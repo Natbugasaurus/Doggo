@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: fdcf0a6387ad81341b61439f8fe2a54f
+timeCreated: 1526776593
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: bench
+    100002: bowl
+    100004: cutting_board
+    100006: Flour1
+    100008: fridge
+    100010: fridgetop
+    100012: kettle
+    100014: knife_holder
+    100016: //RootNode
+    100018: outlet
+    100020: room
+    100022: sink1
+    100024: stove
+    100026: stove_door
+    400000: bench
+    400002: bowl
+    400004: cutting_board
+    400006: Flour1
+    400008: fridge
+    400010: fridgetop
+    400012: kettle
+    400014: knife_holder
+    400016: //RootNode
+    400018: outlet
+    400020: room
+    400022: sink1
+    400024: stove
+    400026: stove_door
+    2100000: lambert1
+    2100002: lambert3
+    2300000: bench
+    2300002: bowl
+    2300004: cutting_board
+    2300006: Flour1
+    2300008: fridge
+    2300010: fridgetop
+    2300012: kettle
+    2300014: knife_holder
+    2300016: outlet
+    2300018: room
+    2300020: sink1
+    2300022: stove
+    2300024: stove_door
+    3300000: bench
+    3300002: bowl
+    3300004: cutting_board
+    3300006: Flour1
+    3300008: fridge
+    3300010: fridgetop
+    3300012: kettle
+    3300014: knife_holder
+    3300016: outlet
+    3300018: room
+    3300020: sink1
+    3300022: stove
+    3300024: stove_door
+    4300000: stove
+    4300002: stove_door
+    4300004: room
+    4300006: outlet
+    4300008: Flour1
+    4300010: sink1
+    4300012: bench
+    4300014: cutting_board
+    4300016: kettle
+    4300018: knife_holder
+    4300020: bowl
+    4300022: fridge
+    4300024: fridgetop
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 35
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
